@@ -1,10 +1,10 @@
 # Set Operations Program 🔢
 
-## Overview 🌐
+## Overview 
 
 The "Set Operations Program" is a C program that performs fundamental operations on sets, such as union, intersection, difference, and symmetric difference. Sets are an essential concept in mathematics and computer science, and this program demonstrates how to manipulate and handle sets efficiently using basic data structures in C. It provides a menu-driven interface that allows users to input their sets and select the desired operation to perform.
 
-## Features ✨
+## Features 
 
 - **Union Operation:** Combines all unique elements from both sets.
 - **Intersection Operation:** Finds common elements between two sets.
@@ -13,7 +13,7 @@ The "Set Operations Program" is a C program that performs fundamental operations
 - **User-Friendly Interface:** Offers a simple, menu-driven interface for easy input and selection of operations.
 - **Error Handling:** Validates user input and handles invalid inputs gracefully.
 
-## How It Works 🕹️
+## How It Works 
 
 1. **Compile and Run the Program:** Use a C compiler to compile the code, then run the executable.
 2. **Input Sets:** The user is prompted to input the number of elements and the elements themselves for two sets.
@@ -35,7 +35,7 @@ For two sets A = {1, 2, 3} and B = {3, 4, 5}, the program outputs:
 - **C Programming Language:** The core logic is implemented in C, making use of arrays and loops for set operations.
 - **Standard I/O Library:** Utilizes standard input and output for user interaction.
 
-## Conclusion 📝
+## Conclusion 
 
 The "Set Operations Program" is a great example of implementing basic data structures and algorithms in C. It provides a practical demonstration of set theory operations, which are fundamental in various fields of computer science and mathematics. This project is ideal for beginners looking to improve their understanding of sets and C programming.
 
